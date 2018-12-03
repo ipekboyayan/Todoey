@@ -56,7 +56,7 @@ class ToDoListViewController : UITableViewController {
             print("success!")
             self.itemArray.append(textField.text!)
             self.tableView.reloadData()
-            
+print("son")
             
         }
         
